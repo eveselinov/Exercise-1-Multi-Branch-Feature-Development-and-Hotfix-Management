@@ -1,2 +1,3 @@
 Auth module init
 Added JWT auth support
+OAuth2 integration
