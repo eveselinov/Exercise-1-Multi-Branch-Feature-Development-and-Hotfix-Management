@@ -1,1 +1,2 @@
 Auth module init
+Added JWT auth support
