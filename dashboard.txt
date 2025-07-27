@@ -1,0 +1,3 @@
+Dashboard skeleton
+Add charts and graphs
+Refactor UI components
