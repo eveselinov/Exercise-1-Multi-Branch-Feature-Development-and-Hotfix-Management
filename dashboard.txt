@@ -1,1 +1,2 @@
 Dashboard skeleton
+Add charts and graphs
